@@ -1,4 +1,4 @@
-# SOFIA-TSAF Project Board
+# SOFIA-TSAF [project board](projects/1)
 
 ## Task
 
