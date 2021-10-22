@@ -1,4 +1,4 @@
-# SOFIA-TSAF [project board](projects/1)
+# SOFIA-TSAF [project board](../../projects/1)
 
 ## Task
 
