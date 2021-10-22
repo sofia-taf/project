@@ -42,13 +42,13 @@ typing any text, simply type # followed by an issue number.
 This will make the task visible on the project board and it can be moved between
 columns as things develop.
 
-## Assignee
+## Assignees
 
 By looking at tasks in the `Consider` and `Wishlist` columns, we can probably
-see which ones of us have the expertise to carry out certain tasks, but it might
-be best to only assign tasks to individuals once the task has reached an active
-stage (`Start`/`In progress`) or to bring their attention to a new task that has
-not been discussed before.
+often guess which ones of us have the expertise to carry out certain tasks, but
+it might be best to only assign individuals to tasks once the task has reached
+an active stage (`Start`/`In progress`) or to bring their attention to a new
+task that has not been discussed before.
 
 Most people work best when they have a small number of well-defined active tasks
 :)
