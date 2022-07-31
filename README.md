@@ -1,4 +1,8 @@
-# SOFIA-TSAF [project board](../../projects/1)
+# SOFIA-TAF project board
+
+See also:
+
+[SOFIA-TAF 2021 project board](https://github.com/sofia-tsaf/project/projects/1)
 
 ## Task
 
